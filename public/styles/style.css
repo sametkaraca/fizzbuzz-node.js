@@ -1,11 +1,11 @@
 
 html{
-    background-color: azure;
+    background-color: orange;
 }
 
 form{
     padding: 6rem;
-    background-color: azure;
+    background-color: orange;
 }
 
 h1{
@@ -13,9 +13,9 @@ h1{
 }
 
 footer{
-    background-color: azure;
+    background-color: orange;
 }
 
 footer p{
-    color: ivory;
+    color: orange;
 }
